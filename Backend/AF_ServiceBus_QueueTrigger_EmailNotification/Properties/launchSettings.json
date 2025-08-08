@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "AF_ServiceBus_QueueTrigger_EmailNotification": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7206",
+      "launchBrowser": false
+    }
+  }
+}

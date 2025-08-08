@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35527.113 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileUploadAPI", "FileUploadAPI.csproj", "{5E36BE59-40CB-4223-BFB5-1B5CC7912BCB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AF_ServiceBus_QueueTrigger_EmailNotification", "..\AF_ServiceBus_QueueTrigger_EmailNotification\AF_ServiceBus_QueueTrigger_EmailNotification.csproj", "{2D50EAF2-7A59-4534-B6AA-97D48D0635CD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5E36BE59-40CB-4223-BFB5-1B5CC7912BCB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E36BE59-40CB-4223-BFB5-1B5CC7912BCB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E36BE59-40CB-4223-BFB5-1B5CC7912BCB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E36BE59-40CB-4223-BFB5-1B5CC7912BCB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2D50EAF2-7A59-4534-B6AA-97D48D0635CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D50EAF2-7A59-4534-B6AA-97D48D0635CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D50EAF2-7A59-4534-B6AA-97D48D0635CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D50EAF2-7A59-4534-B6AA-97D48D0635CD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
