@@ -23,7 +23,9 @@ npm start
 ## For Backend (.Net Core Web API):
 ```bash
 Open solution in Visual Studio >> FileUploadSolution-Frontend-Backend-Azure\Backend\FileUploadAPI\FileUploadAPI.sln
+
 Run FileUploadAPI project for API end points
+
 Run Azure Function for triggering email >> AF_ServiceBus_QueueTrigger_EmailNotification
 ```
 
